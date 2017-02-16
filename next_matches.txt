@@ -1,0 +1,10 @@
+Arsenal : Hull City
+West Ham United : West Bromwich Albion
+Sunderland : Southampton
+Stoke City : Crystal Palace
+Middlesbrough : Everton
+Manchester United : Watford
+Liverpool : Tottenham Hotspur
+Burnley : Chelsea
+Swansea City : Leicester City
+Bournemouth : Manchester City

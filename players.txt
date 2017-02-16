@@ -1,0 +1,689 @@
+Zlatan Ibrahimovic, Manchester United, ST, 92
+Eden Hazard, Chelsea, LW, 92
+David De Gea Quintana, Manchester United, GK, 90
+Sergio Aguero, Manchester City, ST, 90
+Mesut Ozil, Arsenal, CAM, 90
+Paul Pogba, Manchester United, CM, 90
+Alexis Sanchez, Arsenal, ST, 90
+Thibaut Courtois, Chelsea, GK, 89
+Hugo Lloris, Tottenham Hotspur, GK, 89
+Kevin De Bruyne, Manchester City, CM, 89
+Petr Cech, Arsenal, GK, 88
+Diego da Silva Costa, Chelsea, ST, 88
+Harry Kane, Tottenham Hotspur, ST, 88
+Christian Eriksen, Tottenham Hotspur, CAM, 88
+Romelu Lukaku, Everton, ST, 88
+David Josue Jimenez Silva, Manchester City, CAM, 87
+Francesc Fabregas i Soler, Chelsea, CM, 87
+Dimitri Payet, West Ham United, LM, 87
+Riyad Mahrez, Leicester City, RM, 87
+Yaya Toure, Manchester City, CDM, 87
+Henrikh Mkhitaryan, Manchester United, LM, 87
+Ilkay Gundogan, Manchester City, CM, 87
+Vincent Kompany, Manchester City, CB, 86
+Santiago Cazorla Gonzalez, Arsenal, CAM, 86
+Wayne Rooney, Manchester United, CAM, 86
+Claudio Bravo, Manchester City, GK, 86
+David Luiz Moreira Marinho, Chelsea, CB, 86
+Willian Borges da Silva, Chelsea, RW, 86
+Toby Alderweireld, Tottenham Hotspur, CB, 86
+Philippe Coutinho Correia, Liverpool, LW, 86
+James Milner, Liverpool, LB, 86
+Kasper Schmeichel, Leicester City, GK, 86
+Cesar Azpilicueta Tanco, Chelsea, CB, 86
+Theo Walcott, Arsenal, RW, 86
+Seamus Coleman, Everton, RWB, 86
+Christian Benteke, Crystal Palace, ST, 86
+Marko Arnautovic, Stoke City, LM, 86
+Pedro Rodriguez Ledesma, Chelsea, RWB, 86
+Steve Mandanda, Crystal Palace, GK, 85
+Laurent Koscielny, Arsenal, CB, 85
+Nicolas Otamendi, Manchester City, CB, 85
+Bastian Schweinsteiger, Manchester United, CDM, 85
+Leighton Baines, Everton, LB, 85
+Olivier Giroud, Arsenal, ST, 85
+Heung Min Son, Tottenham Hotspur, ST, 85
+John Terry, Chelsea, CB, 84
+Daniel Sturridge, Liverpool, ST, 84
+Juan Manuel Mata Garcia, Manchester United, CAM, 84
+Aaron Ramsey, Arsenal, CM, 84
+Chris Smalling, Manchester United, CB, 84
+Nemanja Matic, Chelsea, CDM, 84
+Granit Xhaka, Arsenal, CM, 84
+Per Mertesacker, Arsenal, CB, 84
+Fernando Luiz Rosa, Manchester City, CDM, 84
+Moussa Dembele, Tottenham Hotspur, CDM, 84
+Ryan Shawcross, Stoke City, CB, 84
+Winston Reid, West Ham United, CB, 84
+Adam Lallana, Liverpool, CM, 84
+Gylfi Sigursson, Swansea City, ST, 84
+Xherdan Shaqiri, Stoke City, RM, 84
+Roberto Firmino Barbosa de Oliveira, Liverpool, ST, 84
+Raheem Sterling, Manchester City, RM, 84
+Jamie Vardy, Leicester City, ST, 84
+N'Golo Kante, Chelsea, CM, 84
+Kyle Walker, Tottenham Hotspur, RB, 84
+Sadio Mane, Liverpool, RW, 84
+Ashley Williams, Everton, CB, 83
+Gary Cahill, Chelsea, CB, 83
+Jose Miguel da Rocha Fonte, Southampton, CB, 83
+Asmir Begovic, Chelsea, GK, 83
+Jan Vertonghen, Tottenham Hotspur, CB, 83
+Oscar dos Santos Emboaba, Chelsea, CAM, 83
+Shkodran Mustafi, Arsenal, CB, 83
+Manuel Agudo Duran, Manchester City, LW, 83
+Gareth Barry, Everton, CDM, 83
+Jermain Defoe, Sunderland, ST, 83
+Fernando Javier Llorente Torres, Swansea City, ST, 83
+Antonio Valencia, Manchester United, RM, 83
+Steven Defour, Burnley, CAM, 83
+Victor Moses, Chelsea, RW, 83
+Andre Ayew, West Ham United, LW, 83
+Manuel Lanzini, West Ham United, LM, 83
+Marcos Alonso Mendoza, Chelsea, LWB, 83
+Joel Matip, Liverpool, CB, 83
+Memphis Depay, Manchester United, LW, 83
+Emre Can, Liverpool, CM, 83
+Dele Alli, Tottenham Hotspur, CAM, 83
+Islam Slimani, Leicester City, ST, 83
+Phil Jagielka, Everton, CB, 82
+Victor Valdes Arribas, Middlesbrough, GK, 82
+Pablo Zabaleta, Manchester City, RB, 82
+Bacary Sagna, Manchester City, RB, 82
+Bojan Krkic Perez, Stoke City, CAM, 82
+Morgan Schneiderlin, Manchester United, CDM, 82
+Mamadou Sakho, Liverpool, CB, 82
+Jack Wilshere, Bournemouth, CM, 82
+Ander Herrera Aguera, Manchester United, CM, 82
+Dejan Lovren, Liverpool, CB, 82
+Jack Butland, Stoke City, GK, 82
+Loris Karius, Liverpool, GK, 82
+Anthony Martial, Manchester United, LM, 82
+Eric Bailly, Manchester United, CB, 82
+Tom Heaton, Burnley, GK, 82
+Yannick Bolasie, Everton, LM, 82
+Michail Antonio, West Ham United, RWB, 82
+Wilfried Zaha, Crystal Palace, RM, 82
+Dusan Tadic, Southampton, LW, 82
+Nacer Chadli, West Bromwich Albion, CAM, 82
+Hector Bellerin Moruno, Arsenal, RB, 82
+Gabriel Fernando de Jesus, Manchester City, ST, 82
+Michael Carrick, Manchester United, CDM, 81
+Yohan Cabaye, Crystal Palace, CDM, 81
+Erik Lamela, Tottenham Hotspur, RM, 81
+Kevin Mirallas, Everton, LM, 81
+Ignacio Monreal Eraso, Arsenal, LB, 81
+Loic Remy, Crystal Palace, ST, 81
+Georginio Wijnaldum, Liverpool, LM, 81
+Ron-Robert Zieler, Leicester City, GK, 81
+James McCarthy, Everton, CDM, 81
+Francis Coquelin, Arsenal, CDM, 81
+Wilfried Bony, Stoke City, ST, 81
+Nathaniel Clyne, Liverpool, RB, 81
+Daley Blind, Manchester United, CB, 81
+Roberto Pereyra, Watford, CM, 81
+Ross Barkley, Everton, CAM, 81
+Lucas Perez Martinez, Arsenal, ST, 81
+Gerard Deulofeu Lazaro, Everton, RM, 81
+Michy Batshuayi, Chelsea, ST, 81
+Maarten Stekelenburg, Everton, GK, 81
+Jordan Henderson, Liverpool, CM, 81
+Joe Allen, Stoke City, CM, 81
+Kieran Trippier, Tottenham Hotspur, RWB, 81
+Ahmed Elmohamady, Hull City, RB, 81
+Andre Gray, Burnley, ST, 81
+Manolo Gabbiadini, Southampton, ST, 81
+Marcus Rashford, Manchester United, ST, 81
+Jordan Ayew, Swansea City, ST, 81
+Michel Vorm, Tottenham Hotspur, GK, 80
+Robert Huth, Leicester City, CB, 80
+Alvaro Negredo Sanchez, Middlesbrough, ST, 80
+Jesus Navas Gonzalez, Manchester City, RM, 80
+Gael Clichy, Manchester City, LB, 80
+Mathieu Debuchy, Arsenal, RB, 80
+Ben Foster, West Bromwich Albion, GK, 80
+ukasz Fabianski, Swansea City, GK, 80
+Danny Rose, Tottenham Hotspur, LB, 80
+Lucas Pezzini Leiva, Liverpool, CDM, 80
+Branislav Ivanovic, Chelsea, RB, 80
+Moussa Sissoko, Tottenham Hotspur, RM, 80
+Angelo Ogbonna, West Ham United, CB, 80
+Claudio Yacob, West Bromwich Albion, CDM, 80
+Matteo Darmian, Manchester United, RB, 80
+Sofiane Feghouli, West Ham United, RW, 80
+Kieran Gibbs, Arsenal, LB, 80
+Danny Drinkwater, Leicester City, CM, 80
+Danny Welbeck, Arsenal, ST, 80
+Salomon Rondon, West Bromwich Albion, ST, 80
+Adrian San Miguel Castillo, West Ham United, GK, 80
+Borja Gonzalez Tomas, Swansea City, ST, 80
+Simone Zaza, West Ham United, ST, 80
+Kurt Zouma, Chelsea, CB, 80
+Luke Shaw, Manchester United, LB, 80
+Sofiane Boufal, Southampton, LW, 80
+Marouane Fellaini, Manchester United, CM, 80
+Costel Pantilimon, Watford, GK, 80
+Wes Morgan, Leicester City, CB, 79
+Ashley Young, Manchester United, LM, 79
+Scott Dann, Crystal Palace, CB, 79
+Ibrahim Afellay, Stoke City, CAM, 79
+Jonny Evans, West Bromwich Albion, CB, 79
+Ryan Bertrand, Southampton, LB, 79
+Sergio Romero, Manchester United, GK, 79
+David Ospina, Arsenal, GK, 79
+Dieumerci Mbokani, Hull City, ST, 79
+Havard Nordtveit, West Ham United, CB, 79
+Max Gradel, Bournemouth, LW, 79
+Nordin Amrabat, Watford, ST, 79
+Fernando Reges, Manchester City, CDM, 79
+Aleksandar Kolarov, Manchester City, LB, 79
+Jefferson Montero, Swansea City, LM, 79
+Gokhan Tore, West Ham United, RM, 79
+Wahbi Khazri, Sunderland, LM, 79
+Phil Jones, Manchester United, CB, 79
+Giannelli Imbula, Stoke City, CM, 79
+Alex Oxlade-Chamberlain, Arsenal, RM, 79
+Gabriel Armando de Abreu, Arsenal, CB, 79
+Federico Fernandez, Swansea City, CB, 79
+Virgil van Dijk, Southampton, CB, 79
+Kevin Wimmer, Tottenham Hotspur, CB, 79
+Leroy Sane, Manchester City, RM, 79
+Alfred N'Diaye, Hull City, CDM, 79
+Heurelho Silva Gomes, Watford, GK, 78
+Willy Caballero, Manchester City, GK, 78
+Ragnar Klavan, Liverpool, CB, 78
+Aaron Lennon, Everton, RM, 78
+Mark Noble, West Ham United, CM, 78
+John Obi Mikel, Chelsea, CDM, 78
+Lee Cattermole, Sunderland, CDM, 78
+Jack Cork, Swansea City, CDM, 78
+Fraser Forster, Southampton, GK, 78
+Simon Mignolet, Liverpool, GK, 78
+Etienne Capoue, Watford, CDM, 78
+Sung Yueng Ki, Swansea City, CM, 78
+Andy Carroll, West Ham United, ST, 78
+Fabian Delph, Manchester City, CM, 78
+Odion Ighalo, Watford, ST, 78
+Bernardo Espinosa, Middlesbrough, CB, 78
+Mame Diouf, Stoke City, ST, 78
+Victor Wanyama, Tottenham Hotspur, CDM, 78
+Tom Cleverley, Everton, CM, 78
+Allan-Romeo Nyom, West Bromwich Albion, RB, 78
+Andros Townsend, Crystal Palace, RM, 78
+Charlie Austin, Southampton, ST, 78
+Papy Djilobodji, Sunderland, CB, 78
+Nampalys Mendy, Leicester City, CDM, 78
+Jordy Clasie, Southampton, CDM, 78
+Bruno Martins Indi, Stoke City, CB, 78
+Cedric Ricardo Alves Soares, Southampton, RB, 78
+Gaston Ramirez, Middlesbrough, CAM, 78
+Ahmed Musa, Leicester City, ST, 78
+Marcos Rojo, Manchester United, LB, 78
+Eric Dier, Tottenham Hotspur, CDM, 78
+John Stones, Manchester City, CB, 78
+Luis Hernandez Rodriguez, Leicester City, CB, 78
+Ben Davies, Tottenham Hotspur, LB, 78
+Abdoulaye Doucoure, Watford, CM, 78
+Marten de Roon, Middlesbrough, CDM, 78
+Divock Origi, Liverpool, ST, 78
+Georges-Kevin Nkoudou, Tottenham Hotspur, LM, 78
+Vincent Janssen, Tottenham Hotspur, ST, 78
+Lazar Markovic, Hull City, RM, 78
+M'Baye Niang, Watford, LW, 78
+Steven Pienaar, Sunderland, LM, 77
+Michael Dawson, Hull City, CB, 77
+Glen Johnson, Stoke City, RB, 77
+Christian Fuchs, Leicester City, LB, 77
+Leon Britton, Swansea City, CM, 77
+Steven Davis, Southampton, CM, 77
+Valon Behrami, Watford, CDM, 77
+Glenn Whelan, Stoke City, CDM, 77
+Younes Kaboul, Watford, CB, 77
+Curtis Davies, Hull City, CB, 77
+Shane Long, Southampton, ST, 77
+Darron Gibson, Everton, CM, 77
+Jay Rodriguez, Southampton, LM, 77
+James McArthur, Crystal Palace, CDM, 77
+Nathan Dyer, Swansea City, RM, 77
+Sebastian Prodl, Watford, CB, 77
+Stefano Okaka, Watford, ST, 77
+Jose Holebas, Watford, LB, 77
+Geoff Cameron, Stoke City, CB, 77
+Cheikhou Kouyate, West Ham United, CDM, 77
+Daryl Janmaat, Watford, RB, 77
+Jan Kirchhoff, Sunderland, CDM, 77
+Pape Souare, Crystal Palace, LB, 77
+Shinji Okazaki, Leicester City, ST, 77
+Danny Ings, Liverpool, ST, 77
+Brice Dja Djedje, Watford, RB, 77
+Ramiro Funes Mori, Everton, CB, 77
+Marco van Ginkel, Chelsea, CM, 77
+Saido Berahino, West Bromwich Albion, ST, 77
+Alberto Moreno Perez, Liverpool, LB, 77
+Jesse Lingard, Manchester United, RM, 77
+Oumar Niasse, Everton, ST, 77
+Javier Manquillo Gaitan, Sunderland, RB, 77
+Jonathan Calleri, West Ham United, ST, 77
+Mauro Zarate, Watford, ST, 77
+Charly Musonda, Chelsea, LM, 77
+Kamil Grosicki, Hull City, RW, 77
+John O'Shea, Sunderland, CB, 76
+James Collins, West Ham United, CB, 76
+Jonas Olsson, West Bromwich Albion, CB, 76
+Peter Crouch, Stoke City, ST, 76
+Wayne Routledge, Swansea City, LM, 76
+Artur Boruc, Bournemouth, GK, 76
+Gareth McAuley, West Bromwich Albion, CB, 76
+Darren Fletcher, West Bromwich Albion, CM, 76
+David Marshall, Hull City, GK, 76
+Alvaro Arbeloa Coca, West Ham United, RB, 76
+Jason Puncheon, Crystal Palace, CAM, 76
+Angel Rangel Zaragoza, Swansea City, RB, 76
+Charlie Adam, Stoke City, CM, 76
+Stephen Ireland, Stoke City, CAM, 76
+James Tomkins, Crystal Palace, CB, 76
+Craig Gardner, West Bromwich Albion, CM, 76
+Erik Pieters, Stoke City, LB, 76
+Troy Deeney, Watford, ST, 76
+Marc Albrighton, Leicester City, LM, 76
+Jack Rodwell, Sunderland, CM, 76
+Lamine Kone, Sunderland, CB, 76
+Fabio Borini, Sunderland, RM, 76
+Leroy Fer, Swansea City, CAM, 76
+Joel Ward, Crystal Palace, RB, 76
+Abel Hernandez, Hull City, ST, 76
+Alex McCarthy, Southampton, GK, 76
+Aaron Cresswell, West Ham United, LB, 76
+Christian Kabasele, Watford, CB, 76
+Markus Henriksen, Hull City, CAM, 76
+Marc Muniesa Martinez, Stoke City, CB, 76
+Idrissa Gueye, Everton, CM, 76
+Diafra Sakho, West Ham United, ST, 76
+Callum Wilson, Bournemouth, ST, 76
+Jordi Amat Maas, Swansea City, CB, 76
+Pedro Mba Obiang Avomo, West Ham United, CDM, 76
+Muhamed Besic, Everton, CDM, 76
+James Ward-Prowse, Southampton, CM, 76
+Adnan Januzaj, Sunderland, LM, 76
+Enner Valencia, Everton, ST, 76
+Joe Ledley, Crystal Palace, CM, 76
+Evandro Goebel, Hull City, CM, 76
+Andrea Ranocchia, Hull City, CB, 76
+Luciano Narsingh, Swansea City, RW, 76
+Robbie Brady, Burnley, LM, 76
+Joey Barton, Burnley, CM, 76
+Patrick van Aanholt, Sunderland, LB, 75
+Kyle Naughton, Swansea City, RB, 75
+Jake Livermore, Hull City, CM, 75
+Miguel Angel Britos, Watford, CB, 75
+Ryan Mason, Hull City, CDM, 75
+Joel Robles Blazquez, Everton, GK, 75
+Nathan Redmond, Southampton, RM, 75
+Matthew Lowton, Burnley, RB, 75
+Tiago Almeida Ilori, Liverpool, CB, 75
+Michael Keane, Burnley, CB, 75
+Modou Barrow, Swansea City, RW, 75
+Mike van der Hoorn, Swansea City, CB, 75
+Arthur Masuaku, West Ham United, LB, 75
+Andrew Robertson, Hull City, LB, 75
+Robert Snodgrass, West Ham United, RM, 75
+Martin Olsson, Swansea City, LB, 75
+Ashley Westwood, Burnley, CM, 75
+Omar Elabdellaoui, Hull City, RB, 75
+Shay Given, Stoke City, GK, 75
+Gerhard Tremmel, Swansea City, GK, 75
+Allan McGregor, Hull City, GK, 75
+Stewart Downing, Middlesbrough, CAM, 75
+Tom Huddlestone, Hull City, CM, 75
+Arouna Kone, Everton, ST, 75
+Jonathan Walters, Stoke City, ST, 75
+Damien Delaney, Crystal Palace, CB, 75
+James Morrison, West Bromwich Albion, CM, 75
+Sebastian Larsson, Sunderland, CM, 75
+Brad Guzan, Middlesbrough, GK, 75
+Antonio Barragan Fernandez, Middlesbrough, RB, 75
+Wayne Hennessey, Crystal Palace, GK, 75
+Neil Taylor, Swansea City, LB, 75
+Vito Mannone, Sunderland, GK, 75
+Bakary Sako, Crystal Palace, LM, 75
+Yohan Benalouane, Leicester City, CB, 75
+Jeremy Pied, Southampton, RB, 75
+Connor Wickham, Crystal Palace, ST, 74
+Daniel Sanchez Ayala, Middlesbrough, CB, 74
+James McClean, West Bromwich Albion, LM, 74
+Oriol Romeu Vidal, Southampton, CDM, 74
+Benik Afobe, Bournemouth, ST, 74
+Viktor Fischer, Middlesbrough, LW, 74
+Florin Gardos, Southampton, CB, 74
+Mohamed Elneny, Arsenal, CDM, 74
+Pierre-Emile Hjbjerg, Southampton, CM, 74
+Didier Ndong, Sunderland, CM, 74
+Jason Denayer, Sunderland, CB, 74
+Isaac Success, Watford, RW, 74
+Kelechi Iheanacho, Manchester City, ST, 74
+Chris Brunt, West Bromwich Albion, LB, 74
+Marc Wilson, West Bromwich Albion, CB, 74
+Darren Randolph, West Ham United, GK, 74
+Rudy Gestede, Middlesbrough, ST, 74
+Matt Phillips, West Bromwich Albion, RM, 74
+George Friend, Middlesbrough, LB, 74
+Molla Wague, Leicester City, CB, 74
+Luka Milivojevic, Crystal Palace, CDM, 74
+Ryan Fraser, Bournemouth, RM, 74
+Nathan Ake, Bournemouth, CB, 74
+Daniel Amartey, Leicester City, CB, 74
+Ramadan Sobhi, Stoke City, LM, 74
+Shaun Maloney, Hull City, CAM, 74
+Chung-Yong Lee, Crystal Palace, LM, 74
+Leonardo Ulloa, Leicester City, ST, 74
+Danny Simpson, Leicester City, RB, 74
+Martin Kelly, Crystal Palace, RB, 74
+Harry Arter, Bournemouth, CM, 74
+Jordan Rhodes, Middlesbrough, ST, 74
+Fabio Pereira da Silva, Middlesbrough, LB, 74
+Ben Mee, Burnley, CB, 74
+Robert Kenedy Nunes do Nascimento, Chelsea, LM, 73
+Alexander Manninger, Liverpool, GK, 73
+Julian Speroni, Crystal Palace, GK, 73
+Boaz Myhill, West Bromwich Albion, GK, 73
+Simon Francis, Bournemouth, CB, 73
+Ben Watson, Watford, CM, 73
+Phil Bardsley, Stoke City, RB, 73
+Adam Federici, Bournemouth, GK, 73
+Juan Camilo Zuniga, Watford, LB, 73
+Sam Vokes, Burnley, ST, 73
+Craig Cathcart, Watford, CB, 73
+Dusan Kuciak, Hull City, GK, 73
+Adam Clayton, Middlesbrough, CDM, 73
+Callum McManaman, West Bromwich Albion, RW, 73
+Maya Yoshida, Southampton, CB, 73
+Kristoffer Nordfeldt, Swansea City, GK, 73
+Carl Jenkinson, Arsenal, RB, 73
+Jon Flanagan, Burnley, RB, 73
+Jordan Pickford, Sunderland, GK, 73
+Sam Byram, West Ham United, RB, 73
+Pau Lopez Sabata, Tottenham Hotspur, GK, 73
+Mario Pasalic, Chelsea, CDM, 73
+Junior Stanislas, Bournemouth, RM, 73
+David Nugent, Middlesbrough, ST, 72
+Marcin Wasilewski, Leicester City, CB, 72
+Dimitrios Konstantopoulos, Middlesbrough, GK, 72
+Stephen Ward, Burnley, LB, 72
+Marc Pugh, Bournemouth, LM, 72
+Emilio Nsue Lopez, Middlesbrough, RB, 72
+Charlie Daniels, Bournemouth, LB, 72
+Scott Arfield, Burnley, LM, 72
+Dan Gosling, Bournemouth, CM, 72
+Joshua King, Bournemouth, ST, 72
+Jordon Mutch, Crystal Palace, CM, 72
+Christian Stuani, Middlesbrough, RM, 72
+Andy King, Leicester City, CM, 72
+David Meyler, Hull City, CM, 72
+Adama Valentin Diomande, Hull City, ST, 72
+Johann Berg Gudmundsson, Burnley, RM, 72
+Steve Cook, Bournemouth, CB, 72
+Bryan Oviedo, Everton, LB, 72
+Jeff Hendrick, Burnley, CM, 72
+Moses Odubajo, Hull City, RB, 72
+Tom Carroll, Tottenham Hotspur, CM, 72
+Harry Maguire, Hull City, CB, 72
+Calum Chambers, Middlesbrough, RB, 72
+Kevin Stewart, Liverpool, CDM, 72
+Paddy McNair, Sunderland, CDM, 72
+Adama Traore Diarra, Middlesbrough, RW, 72
+Onyinye Ndidi, Leicester City, CDM, 72
+Billy Jones, Sunderland, RB, 71
+Dean Marney, Burnley, CM, 71
+Grant Leadbitter, Middlesbrough, CDM, 71
+Fraizer Campbell, Crystal Palace, ST, 71
+George Boyd, Burnley, RM, 71
+Adlene Guedioura, Watford, CM, 71
+Ashley Barnes, Burnley, ST, 71
+Adam Smith, Bournemouth, RB, 71
+Jeffrey Schlupp, Leicester City, LB, 71
+James Tarkowski, Burnley, CB, 71
+Jordon Ibe, Bournemouth, LW, 71
+Patrick Bamford, Burnley, ST, 71
+Juan Carlos Paredes, Watford, RB, 71
+Tyrone Mings, Bournemouth, LB, 71
+Bartosz Kapustka, Leicester City, LM, 71
+Lewis Cook, Bournemouth, CM, 71
+Timothy Fosu-Mensah, Manchester United, CDM, 71
+Michael Simoes Domingues, Sunderland, GK, 71
+Jon Toral, Arsenal, CAM, 71
+Paul Robinson, Burnley, GK, 70
+Michael Kightly, Burnley, LM, 70
+Lewis Grabban, Bournemouth, ST, 70
+Adam Forshaw, Middlesbrough, CM, 70
+Tendayi Darikwa, Burnley, RB, 70
+Ben Gibson, Middlesbrough, CB, 70
+Tomas Mejias Osorio, Middlesbrough, GK, 70
+Cuco Martina, Southampton, RB, 70
+Todd Kane, Chelsea, RB, 70
+Alex Iwobi, Arsenal, LM, 70
+Edimilson Fernandes, West Ham United, CAM, 70
+Julien De Sart, Middlesbrough, CDM, 70
+Demarai Gray, Leicester City, LM, 70
+Cameron Brannagan, Liverpool, CM, 70
+Josh Onomah, Tottenham Hotspur, CAM, 70
+Stephen Kingsley, Swansea City, LB, 70
+Marko Grujic, Liverpool, CM, 70
+Luke Garbutt, Everton, LB, 70
+Mouez Hassen, Southampton, GK, 70
+Matty James, Leicester City, CM, 69
+Giedrius Arlauskis, Watford, GK, 69
+Yaya Sanogo, Arsenal, ST, 69
+Duncan Watmore, Sunderland, RM, 69
+Joe Gomez, Liverpool, LB, 69
+Dominic Solanke, Chelsea, ST, 69
+Rhoys Wiggins, Bournemouth, LB, 69
+Marvin Emnes, Swansea City, ST, 69
+Nathaniel Chalobah, Chelsea, CM, 69
+James Wilson, Manchester United, ST, 69
+Alex Bruce, Hull City, CB, 69
+Ben Chilwell, Leicester City, LB, 68
+Trent Alexander-Arnold, Liverpool, RM, 68
+Jack Byrne, Manchester City, CM, 68
+Eldin Jakupovic, Hull City, GK, 68
+Mark Birighitti, Swansea City, GK, 68
+Sam Clucas, Hull City, LM, 68
+Doneil Henry, West Ham United, CB, 68
+Harrison Reed, Southampton, CDM, 68
+Sam Johnstone, Manchester United, GK, 68
+Alfie Mawson, Swansea City, CB, 68
+Brendan Galloway, West Bromwich Albion, LB, 68
+Ruben Loftus-Cheek, Chelsea, CAM, 68
+Lys Mousset, Bournemouth, ST, 68
+Rob Holding, Arsenal, CB, 67
+Axel Tuanzebe, Manchester United, CB, 67
+Sullay Kaikai, Crystal Palace, LM, 67
+Ben Hamer, Leicester City, GK, 67
+Hal Robson-Kanu, West Bromwich Albion, LM, 67
+Craig Dawson, West Bromwich Albion, RB, 67
+Tyias Browning, Everton, RB, 67
+Will Keane, Hull City, ST, 67
+Lloyd Isgrove, Southampton, RM, 67
+Gedion Zelalem, Arsenal, CM, 67
+Matt Targett, Southampton, LB, 67
+Brandon Barker, Manchester City, LM, 67
+Lee Grant, Stoke City, GK, 66
+Kevin Long, Burnley, CB, 66
+Kwesi Appiah, Crystal Palace, ST, 66
+Ezekiel Fryers, Crystal Palace, LB, 66
+Ashley Fletcher, West Ham United, ST, 66
+Thierry Ambrose, Manchester City, ST, 66
+Lynden Gooch, Sunderland, CAM, 66
+Reece Oxford, West Ham United, CB, 66
+Conor McAleny, Everton, LM, 65
+Jack Stephens, Southampton, CB, 65
+James Husband, Middlesbrough, LB, 65
+Brad Smith, Bournemouth, LB, 65
+Emerson Hyndman, Bournemouth, CM, 65
+Angus Gunn, Manchester City, GK, 65
+Jose Angel Esmoris Tasende, Manchester City, LB, 65
+Pablo Maffeo Becerra, Manchester City, RB, 65
+Mason Holgate, Everton, RB, 65
+Ainsley Maitland-Niles, Arsenal, RM, 65
+Kieran Dowell, Everton, CAM, 65
+Mathias Ranegie, Watford, ST, 65
+Bismark Adjei-Boateng, Manchester City, CM, 65
+Kenji Gorre, Swansea City, LW, 65
+Baily Cargill, Bournemouth, CB, 65
+Joe Riley, Manchester United, LB, 64
+Martin Samuelsen, West Ham United, RM, 64
+Mohamed El Ouriachi Choulay, Stoke City, LW, 64
+Nathan Oduwa, Tottenham Hotspur, LM, 64
+Hamza Choudhury, Leicester City, CDM, 64
+Tom Davies, Everton, CM, 64
+Ryan Allsop, Bournemouth, GK, 64
+Nick Pope, Burnley, GK, 64
+Jakob Haugaard, Stoke City, GK, 64
+Chuba Akpom, Arsenal, ST, 64
+Matthew Pennington, Everton, CB, 64
+Jay Fulton, Swansea City, CM, 64
+Harry Winks, Tottenham Hotspur, CM, 64
+Sheyi Ojo, Liverpool, LM, 64
+Jonathan Leko, West Bromwich Albion, RW, 64
+Brahim Diaz, Manchester City, CAM, 64
+Brian Lenihan, Hull City, RB, 63
+Ryan Seager, Southampton, ST, 63
+Sam McQueen, Southampton, LM, 63
+Dominic Calvert-Lewin, Everton, ST, 63
+Jake Hesketh, Southampton, CAM, 63
+Dionatan Teixeira, Stoke City, CB, 63
+Ola Aina, Chelsea, RB, 63
+Regan Poole, Manchester United, CB, 63
+Joel Taylor, Stoke City, LB, 63
+Jeff Reine-Adelaide, Arsenal, CAM, 63
+Aleix Garcia Serrano, Manchester City, CM, 63
+Joel Asoro, Sunderland, ST, 63
+George Waring, Stoke City, ST, 63
+Chidiebere Nwakali, Manchester City, CM, 63
+Daniel Bachmann, Stoke City, GK, 62
+Jake Flannigan, Southampton, CM, 62
+Oliver McBurnie, Swansea City, ST, 62
+Krystian Bielik, Arsenal, CDM, 62
+Oliver Shenton, Stoke City, CM, 62
+Cameron Carter-Vickers, Tottenham Hotspur, CB, 62
+Zachary Elbouzedi, West Bromwich Albion, CAM, 62
+Carlos de Pena, Middlesbrough, LM, 62
+Joe Ward, West Bromwich Albion, CM, 62
+Sam Field, West Bromwich Albion, CM, 62
+Freddie Ladapo, Crystal Palace, ST, 62
+Callam Jones, West Bromwich Albion, CB, 62
+Andre Wright, West Bromwich Albion, ST, 62
+Josh Sims, Southampton, LM, 61
+Cameron Humphreys-Grant, Manchester City, CB, 61
+Tom Beadling, Sunderland, CB, 61
+Michael Folivi, Watford, ST, 61
+Kyle Edwards, West Bromwich Albion, CAM, 61
+Fikayo Tomori, Chelsea, CB, 61
+Antonio Martinez Lopez, West Ham United, ST, 61
+Ellis Barkworth, Hull City, CB, 61
+George Green, Burnley, CAM, 61
+Josh Ginnelly, Burnley, LM, 61
+Divine Naah, Manchester City, CM, 61
+Tyler Roberts, West Bromwich Albion, ST, 61
+Ademola Lookman, Everton, ST, 61
+Raphael Spiegel, West Ham United, GK, 60
+George Honeyman, Sunderland, CAM, 60
+Alex Bray, Swansea City, RM, 60
+Jack Rose, West Bromwich Albion, GK, 60
+Aaron Nemane, Manchester City, RM, 60
+Thomas Robson, Sunderland, LB, 60
+Rees Greenwood, Sunderland, LW, 60
+Shayon Harrison, Tottenham Hotspur, ST, 60
+Eddy Lecygne, Stoke City, CM, 60
+Will Patching, Manchester City, CM, 60
+Conor Masterson, Liverpool, CB, 60
+Josh Maja, Sunderland, ST, 60
+Tyler Reid, Swansea City, RB, 60
+Bradley Fewster, Middlesbrough, ST, 60
+Dan Agyei, Burnley, ST, 60
+Rene Gilmartin, Watford, GK, 59
+Donald Love, Sunderland, RB, 59
+Jordan McGhee, Middlesbrough, RB, 59
+Jerome Sinclair, Watford, ST, 59
+Tosin Adarabioyo, Manchester City, CB, 59
+Johan Ter Horst, Hull City, ST, 59
+Jordan Williams, Liverpool, CB, 59
+Will Wood, Southampton, LB, 59
+Owain Jones, Swansea City, LM, 59
+Liam Edwards, Stoke City, CB, 59
+Sergio Molina Beloqui, Stoke City, CDM, 59
+Botti Biabi, Swansea City, ST, 59
+Joe Maguire, Liverpool, LB, 59
+Jay Dasilva, Chelsea, LB, 59
+Aaron Lewis, Swansea City, RB, 59
+Daniel Batty, Hull City, CM, 59
+Jack Dunn, Liverpool, CAM, 59
+Adam King, Swansea City, CM, 59
+Oliver Davies, Swansea City, GK, 59
+Daniel Crowley, Arsenal, CAM, 59
+Jonathan Burn, Middlesbrough, CB, 59
+Sean Goss, Manchester United, CM, 58
+Marcus Barnes, Southampton, ST, 58
+Connor Ogilvie, Tottenham Hotspur, LB, 58
+Pedro Chirivella Burgos, Liverpool, CDM, 58
+Maksymilian Stryjek, Sunderland, GK, 58
+Ola Adeyemo, Watford, ST, 58
+Greg Luer, Hull City, ST, 58
+Kyle Walker-Peters, Tottenham Hotspur, RB, 58
+Djair Parfitt-Williams, West Ham United, ST, 58
+Jack Fitzwater, West Bromwich Albion, CB, 58
+Marcus Browne, West Ham United, CAM, 58
+Daniel James, Swansea City, LW, 58
+Luke Amos, Tottenham Hotspur, CDM, 58
+Josh Tymon, Hull City, LB, 58
+Dara O'Shea, West Bromwich Albion, CB, 58
+Marcus Edwards, Tottenham Hotspur, CAM, 58
+Alex Davey, Chelsea, CB, 58
+Alex Jakubiak, Watford, ST, 58
+Alex Whitmore, Burnley, CB, 58
+Russell Griffiths, Everton, GK, 58
+William Miller, Tottenham Hotspur, CAM, 58
+Josh O'Hanlon, Bournemouth, ST, 57
+Jonjoe Kenny, Everton, RB, 57
+Jarrod Bowen, Hull City, ST, 57
+Bradley Collins, Chelsea, GK, 57
+Matty Foulds, Everton, CB, 57
+Callum Connolly, Everton, CDM, 57
+Vashon Neufville, West Ham United, LB, 57
+Ethan Robson, Sunderland, CM, 57
+Aiden O'Neill, Burnley, CM, 57
+Shaun Donnellan, West Bromwich Albion, CB, 57
+Mason Mount, Chelsea, CAM, 57
+Thomas Dyson, Swansea City, CM, 57
+Admiral Muskwe, Leicester City, ST, 57
+Harry Cornick, Bournemouth, RM, 57
+Bryn Morris, Middlesbrough, CM, 56
+James Weir, Hull City, CAM, 56
+Connor Randall, Liverpool, RB, 56
+Dom Telford, Stoke City, ST, 56
+Daniel Iversen, Leicester City, GK, 56
+Josh Robson, Sunderland, RB, 56
+Anton Walkes, Tottenham Hotspur, CDM, 56
+Declan Rice, West Ham United, CB, 56
+Steven Kinsella, Everton, LW, 56
+Dael Fry, Middlesbrough, CB, 56
+Alex Palmer, West Bromwich Albion, GK, 55
+Charlie Rowan, Watford, CB, 55
+Ben Hinchliffe, Hull City, ST, 55
+Conor Mitchell, Burnley, GK, 54
+George Byers, Swansea City, CM, 54
+Chris Willock, Arsenal, ST, 54
+Patrick O'Flaherty, Bournemouth, GK, 54
+Jordan Holmes, Bournemouth, GK, 54
+Brandon Mason, Watford, LB, 54
+Darnell Johnson, Leicester City, RB, 54
+Mark Waddington, Stoke City, CM, 54
+Tahvon Campbell, West Bromwich Albion, LW, 54
+Callum Cooke, Middlesbrough, ST, 53
+Brandon Fox, Leicester City, LM, 53
+Josh Clackstone, Hull City, RB, 53
+Hayden Coulson, Middlesbrough, LB, 53
+Matt Macey, Arsenal, GK, 52
+Mitchell Beeney, Chelsea, GK, 52
+Callum Buckley, Bournemouth, LB, 51
+Lewis Maloney, Middlesbrough, CM, 51
+Callum Bullock, Manchester City, RB, 51
